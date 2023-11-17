@@ -3,7 +3,7 @@ Project presenting the backEnd of two REST services : "User registration" and "U
 
 ### Technologies used
 * Spring framework : as backend framework
-* MongoDB : Non relational database to hold all the users info
+* MongoDB : non relational database to hold all the users info
 * Mockito : test framework
 
 ### How to run the application
